@@ -1,22 +1,3 @@
-<html>
-<head>
-	
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.2  (Win32)">
-	<META NAME="AUTHOR" CONTENT="Pablo  Maci&aacute; Linares">
-	<META NAME="CREATED" CONTENT="20170131;8560418">
-	<META NAME="CHANGEDBY" CONTENT="Pablo  Maci&aacute; Linares">
-	<META NAME="CHANGED" CONTENT="20170131;9402490">
-	
-	<STYLE>
-		<!-- 
-		BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Arial"; font-size:x-small }
-		 -->
-	</STYLE>
-	
-</head>
-<body>
 #Servidor
 <ul>
 	<li><a href="https://github.com/PabloMacLinares/PRJ-API_REST-IOS/blob/master/Server/api/api.php" target="_blank">api.php</a></li>
@@ -28,6 +9,11 @@
 
 ##Uso de la api
 <TABLE FRAME=VOID CELLSPACING=0 COLS=5 RULES=NONE BORDER=0>
+	<STYLE>
+		<!-- 
+		BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Arial"; font-size:x-small }
+		 -->
+	</STYLE>
 	<COLGROUP><COL WIDTH=233><COL WIDTH=86><COL WIDTH=378><COL WIDTH=353><COL WIDTH=692></COLGROUP>
 	<TBODY>
 		<TR>
@@ -167,6 +153,3 @@
 </TABLE>
 
 ###Cliente
-
-</body>
-</html>
