@@ -1,0 +1,47 @@
+
+runepml:~/workspace/api $ vendor/bin/doctrine orm:schema-tool:update --force
+
+
+http://ocramius.github.io/blog/a-simple-doctrine-2-orm-tutorial/
+http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/index.html
+
+//PROTOTIPA LAS TABLAS DE DOCTRINE EN UNA BASE DE DATOS APARTE ANTES DE LLEVARLAS
+A LA BASE DE DATOS DE WORDPRESS
+
+REST
+    -GET -> Consultar ej: http://www.izv.org/alumno/2334
+    -POST -> Crear ej: http://www.izv.org/alumno + {json}
+    -PUT -> Modificar ej: http://www.izv.org/alumno/2334 + {json}
+    -DELETE -> Borrar ej: http://www.izv.org/alumno/2334
+    
+    -> 1 sóla página web recibe todas las peticiones
+    apche + php -> .htaccess -> reglas de resscritura
+                                si pido una página que no existe
+                                te mando a una página concreta
+    
+    Esta página concreta hace lo siguiente:
+    1º Que peticion se está haciendo (PUT,GET,DELETE,POST)
+    2º Descomponer la url: disco/2334/cancion/231
+    3º Obtener los parámetros json: php://input
+    4º Operar
+    5º Respuesta json
+    
+Database details:
+
+create database wordpress default character set utf8 collate utf8_unicode_ci;
+create user uwp@localhost identified by 'cwp';
+grant all on wp.* to uwp@localhost;
+flush privileges;
+
+
+TABLAS (CAMPOS MINIMOS)
+PROFESOR: ID AUTONUMERICO, NOMBRE, DEPARTAMENTO
+ACTIVIDAD: ID AUTONUMERICO, ID PROFESOR QUE ORGANIZA, DESCRIPCION CORTA, DESCRIPCION ACTIVIDAD, GRUPO, FECHA(tipo date), LUGAR, HORA INICIO (tipo time), HORA FIN (tipo time), FOTO(Opcional)
+GRUPO(OPCIONAL): ID AUTONUMERICO, NOMBRE
+
+CRITERIO DE ORDENACION DE ACTIVIDADES:
+    hoy
+    mañana
+    ayer
+    
+Tutorial table view: https://www.ralfebert.de/tutorials/ios-swift-uitableviewcontroller/

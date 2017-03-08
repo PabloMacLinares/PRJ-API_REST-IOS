@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PlaceHolder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-03-08 01:11+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "404, Página no encontrada"
+msgstr "404, Page Not Found"
+
+msgid "La página que estas buscando no existe o ocurrió algún error."
+msgstr "The page you are looking for does not exist or an error occurred."
+
+msgid "VOLVER AL INICIO"
+msgstr "BACK TO HOME"
+
+msgid "El centro"
+msgstr "The center"
+
+msgid ""
+"El equipo directivo del I.E.S. ZAIDÍN-VERGELES les da la bienvenida a "
+"nuestra página Web. En ella hemos querido mostrarles a grandes rasgos "
+"algunas informaciones sobre nuestro Centro, pero nos gustaría que nos "
+"visitase personalmente para poder conocer in situ lo que somos y cómo "
+"funcionamos. Somos un centro público y nuestro objetivo es conseguir y "
+"asegurar la calidad del servicio que prestamos a la sociedad. Nos apasiona "
+"nuestro trabajo y la igualdad, la solidaridad y la libertad son algunos de "
+"los ejes de nuestro Proyecto Educativo. ¿Cómo funcionamos? Queremos formar "
+"personas de ahí que, además de los conocimientos, consideremos fundamentales "
+"la relaciones humanas en el marco de la convivencia de nuestra Comunidad "
+"Educativa. La participación activa en nuestro proyecto de todos los "
+"componentes de la Comunidad Escolar sigue siendo nuestra bandera. Tu voz con "
+"nosotros siempre será tenida en cuenta."
+msgstr ""
+"The I.E.S. ZAIDÍN-VERGELES welcomes you to our website. In it we wanted to "
+"show you some information about our Center, but we would like you to visit "
+"us personally so we can know on the spot what we are and how we work. We are "
+"a public center and our goal is to achieve and ensure the quality of the "
+"service we provide to society. We are passionate about our work and "
+"equality, solidarity and freedom are some of the axes of our Educational "
+"Project. How do we work? We want to train people from that, in addition to "
+"the knowledge, consider fundamental human relations within the framework of "
+"the coexistence of our Educational Community. The active participation in "
+"our project of all the components of the School Community continues being "
+"our flag. Your voice with us will always be taken into account."
+
+msgid "Matriculaciones"
+msgstr "Registrations"
+
+msgid "ESO"
+msgstr "ESO"
+
+msgid "FBP"
+msgstr "FBP"
+
+msgid "BACHILLERATO"
+msgstr "BACHELOR´S DEGREE"
+
+msgid "CICLO FORMATIVO"
+msgstr "TRAINING CYCLE"
+
+msgid "ADULTOS"
+msgstr "ADULTS"
+
+msgid "DIRECCIÓN"
+msgstr "MANAGEMENT"
+
+msgid "Director"
+msgstr "Principal"
+
+msgid "Vicedirección"
+msgstr "Vicemanager"
+
+msgid "Jefa de Estudios"
+msgstr "Director of Studies"
+
+msgid "Secretaria"
+msgstr "Secretary"
+
+msgid "Administradora"
+msgstr "Administrator"
+
+msgid "Jefe de Estudios de Adultos"
+msgstr "Head of Adult Studies"
+
+msgid "Jefe de Estudios Adjunto"
+msgstr "Head of Associate Studies"
+
+msgid "Jefa de Estudios de Adjunta"
+msgstr "Head of Associate Studies"
+
+msgid "CONSEJO ESCOLAR"
+msgstr "SCHOOL COUNCIL"
+
+msgid "PRESIDENTE"
+msgstr "PRESIDENT"
+
+msgid "JEFA DE ESTUDIOS"
+msgstr "HEAD OF STUDIES"
+
+msgid "SECRETARIA"
+msgstr "SECRETARY"
+
+msgid "DEL ENTORNO EMPRESARIAL"
+msgstr "OF THE BUSINESS ENVIRONMENT"
+
+msgid "REPRESENTANTES"
+msgstr "REPRESENTATIVES"
+
+msgid "DEL PROFESORADO"
+msgstr "OF THE TEACHERS"
+
+msgid "DE PADRES Y MADRES O TUTORES"
+msgstr "OF PARENTS AND TUTORS"
+
+msgid "DEL ALUMNADO"
+msgstr "OF THE STUDENTS"
+
+msgid "DE ADMON. Y SERVICIOS"
+msgstr "OF ADMINISTRATION AND SERVICES"
+
+msgid "No se ha encontrado la actividad solicitada"
+msgstr "The requested activity was not found"
+
+msgid "Información de la Actividad"
+msgstr "Activity information"
+
+msgid "Lugar"
+msgstr "Place"
+
+msgid "Fecha"
+msgstr "Date"
+
+msgid "Hora"
+msgstr "Hour"
+
+msgid "Profesor"
+msgstr "Teacher"
+
+msgid "Grupo"
+msgstr "Group"
+
+msgid "Descripción: "
+msgstr "Description:"
+
+msgid "No se han encontrado actividades"
+msgstr "No activities found"
+
+msgid "1 Actividad encontrada"
+msgstr "1 Activity Found"
+
+msgid " Actividades encontradas"
+msgstr "Activities found"
+
+msgid "Busqueda de actividades"
+msgstr "Activity search"
+
+msgid "Fecha de la actividad:"
+msgstr "Date of the activity:"
+
+msgid "Buscar"
+msgstr "Search"
+
+msgid "Profesor encargado:"
+msgstr "Teacher in charge:"
+
+msgid "posts encontrados"
+msgstr "Posts found"
+
+msgid "post encontrado"
+msgstr "Post found"
+
+msgid "Ningún post encontrado"
+msgstr "No posts found"
+
+msgid "Categoria:"
+msgstr "Category:"
+
+msgid "Etiqueta:"
+msgstr "Tag:"
+
+msgid "Autor:"
+msgstr "Author"
+
+msgid "Mes:"
+msgstr "Month:"
+
+msgid "Formulario de contacto"
+msgstr "Contact form"
+
+msgid "Nombre"
+msgstr "Name"
+
+msgid "Tu nombre"
+msgstr "Your name"
+
+msgid "Apellidos"
+msgstr "Surnames"
+
+msgid "Tus apellidos"
+msgstr "Your surnames"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Tu correo electronico"
+msgstr "Your email"
+
+msgid "Mensaje"
+msgstr "Message"
+
+msgid "Enviar"
+msgstr "Send"
+
+msgid "Nuestra direccion"
+msgstr "Our address"
+
+msgid "Calle"
+msgstr "Street"
+
+msgid "España"
+msgstr "Spain"
+
+msgid "NUESTRA COMPAÑÍA"
+msgstr "OUR COMPANY"
+
+msgid "Acerca de"
+msgstr "About"
+
+msgid "Contacto"
+msgstr "Contact"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "ARCHIVOS"
+msgstr "ARCHIVES"
+
+msgid "Dirección"
+msgstr "Direction"
+
+msgid "¿Qué ofrecemos?"
+msgstr "What we offer?"
+
+msgid "Nosotros apostamos por una enseñanza de calidad y por eso:"
+msgstr "We are committed to quality teaching and that is why:"
+
+msgid "Titulación"
+msgstr "Degree"
+
+msgid ""
+"Nuestras titulaciones están reconocidas en todos los países.Vayas donde "
+"vayas tus títulos te acompañaran sin ningun problema o impedimento "
+msgstr ""
+"Our degrees are recognized in all countries. Wherever you go your degrees "
+"will accompany you without any problem or impediment"
+
+msgid "Reconocimiento"
+msgstr "Recognition"
+
+msgid ""
+"Estamos reconocidos como la mejor escuela secundaria a nivel autonómico, ya "
+"sea por la calidad de enseñanza, número de titulaciones disponibles o por el "
+"número elevado de graduados con exito e insertados en el mercado laboral"
+msgstr ""
+"We are recognized as the best secondary school at the regional level, either "
+"because of the quality of education, number of qualifications available or "
+"the high number of graduates successfully and inserted in the labor market"
+
+msgid "Comprometidos con lo público"
+msgstr "Committed to the public"
+
+msgid ""
+"Estamos totalmente a favor de la enseñanza pública y por ello queremos "
+"demostrar que se puede dar una enseñanza de calidad y accesible para todas "
+"las personas que quieran educarse y aprender"
+msgstr ""
+"We are totally in favor of public education and for this we want to "
+"demonstrate that a quality education can be given and accessible to all "
+"people who want to educate and learn"
+
+msgid "Inserción laboral"
+msgstr "Job insertion"
+
+msgid ""
+"Tenemos la mayor tasa de inserción laboral desde los ciclos formativos a "
+"nivel nacional, con un 90% de contratación ya sea dentro del país o en el "
+"extranjero"
+msgstr ""
+"We have the highest labor insertion rate since the training cycles at the "
+"national level, with 90% of recruitment either within the country or abroad"
+
+msgid "Proyectos globales"
+msgstr "Global projects"
+
+msgid ""
+"Desarrollamos proyectos no solo a nivel europeo sino a nivel mundial. "
+"Estamos en contacto con grandes escuelas de todo el mundo para enriquecer a "
+"nuestro alumnado y que aprendar de la mejor forma posible para asi tener un "
+"futuro brillante"
+msgstr ""
+"We develop projects not only at European level but worldwide. We are in "
+"contact with great schools around the world to enrich our students and to "
+"learn in the best way possible to have a bright future"
+
+msgid "Más allá de la escuela"
+msgstr "Beyond the school"
+
+msgid ""
+"Además de las clases, impartimos todo tipo de actividades extracurriculares "
+"en las que el alumnado podra desarrollar todo tipo de inteligencias y de "
+"conocimientos, desde las más físicas hasta las mas psicológicas"
+msgstr ""
+"In addition to the classes, we offer all kinds of extracurricular activities "
+"in which students can develop all types of intelligence and knowledge, from "
+"the most physical to the most psychological"
+
+msgid "Últimas novedades"
+msgstr "Latest news"
+
+msgid "Echa un vistazo de lo que estamos haciendo:"
+msgstr "Take a look at what we are doing:"
+
+msgid "No se encontraron posts"
+msgstr "No posts found"
+
+msgid "correspondencias encontradas"
+msgstr "Matches found"
+
+msgid "1 correspondencia encontrada"
+msgstr "1 match found"
+
+msgid "···Resultados de la búsqueda: "
+msgstr "···Search results:"
+
+msgid "Posts Populares"
+msgstr "Popular Posts"
+
+msgid "Actividades Populares"
+msgstr "Popular Activities"
+
+msgid "No hay"
+msgstr "There is no"
+
+msgid " 1 comentario"
+msgstr "1 comment"
+
+msgid "comentarios"
+msgstr "comments"
+
+msgid "Inicio"
+msgstr "Home"
+
+msgid "Actividades"
+msgstr "Activities"
+
+msgid "Novedades"
+msgstr "Latest news"

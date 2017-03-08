@@ -1,0 +1,100 @@
+.imagen_post{
+	height: 250px;
+	background-position:center center;
+	background-size: cover;
+}
+
+.progress-adult .bar{
+    background-color:purple;
+}
+
+.icono-consejo{
+    margin: 0 auto;
+}
+
+.date{
+    width: 30px;
+}
+.single{
+    height: 400px;
+    margin-bottom: 2%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+
+.title{
+	background-color: #238AC4;
+}
+
+a{
+    color:#FFAA22;
+} 
+
+header.navbar .nav>li.active>a, header.navbar .nav>li.active>a:hover {
+    color: #FFAA22;
+}
+
+header.navbar .nav>li>a:hover {
+    color: #FFFFFF;
+    background-color: #238AC4;
+}
+
+.widget .date {
+    background: #238AC4;
+}
+
+.btn{
+    background-color: #238AC4;
+}
+
+.btn:hover {
+    background-color: #FFAA22;
+}
+
+.btn-primary {
+    background-color: #238AC4;
+}
+
+.btn-primary:hover {
+    background-color: #FFAA22;
+}
+
+#recent-works {
+    background: #238AC4;
+}
+
+#bottom a:hover {
+    color: #FFAA22;
+}
+
+#footer a:hover {
+    color: #FFAA22;
+}
+
+.icon-medium {
+    background: #238AC4;
+}
+
+.formFiltro{
+    margin: 5px;
+}
+
+.cabecera{
+    height: 600px;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.intro-text{
+    position:relative;
+    text-align: center;
+    font-size: 4em;
+    color: orange;
+    top: 300px;
+    margin: 0 auto;
+}
+hr.frontpage{
+    border-color: orange;
+}

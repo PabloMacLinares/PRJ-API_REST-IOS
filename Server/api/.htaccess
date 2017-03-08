@@ -1,0 +1,3 @@
+# Activar RewriteEngine
+RewriteEngine on
+RewriteRule .*/?$ api.php?$0 [QSA,L]
