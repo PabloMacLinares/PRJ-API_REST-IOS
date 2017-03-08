@@ -1,4 +1,5 @@
-<HEAD>
+<html>
+<head>
 	
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
 	<TITLE></TITLE>
@@ -14,9 +15,9 @@
 		 -->
 	</STYLE>
 	
-</HEAD>
-
-###Servidor
+</head>
+<body>
+#Servidor
 <ul>
 	<li><a href="https://github.com/PabloMacLinares/PRJ-API_REST-IOS/blob/master/Server/api/api.php" target="_blank">api.php</a></li>
 	<li><a href="https://github.com/PabloMacLinares/PRJ-API_REST-IOS/tree/master/Server/api/clases" target="_blank">Gestores</a></li>
@@ -166,3 +167,6 @@
 </TABLE>
 
 ###Cliente
+
+</body>
+</html>
